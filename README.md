@@ -9,7 +9,7 @@ Calculates your entire character's bank and displays the overall GE and High Alc
 ![img_3.png](screenshots/img_3.png)
 
 ### Show High Alchemy Value
-If unchecked, the plugin will remove the High Alchemy from the overlay.
+If unchecked, the plugin will remove the High Alchemy value from the overlay.
 
 ### Show Suffix
 If unchecked, the plugin will remove the K/M/B suffix from the bank value and displays a more precise value.
